@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&random=false&width=435&lines=Hi+there+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=435&lines=Hi+there!" alt="Typing SVG" /></a>
+
  ## Who am I?
  ```python
  class WhoAmI:
@@ -18,4 +19,4 @@
 <img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/cpp.svg' width='40'/> <img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/python.svg' height='40'/> <img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/swi-prolog.svg' height='45'/>
 
 ## Development environments
-<img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/vs.svg' width='40'/> <img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/vs-code.svg' height='40'/> <img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/swi-pycharm.svg' height='45'/>
+<img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/vs.svg' width='40'/> <img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/vs-code.svg' height='40'/> <img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/pycharm.svg' height='45'/>
