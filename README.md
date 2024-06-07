@@ -15,4 +15,7 @@
  ```
 
 ## Programming Languages
-<img src = 'https://github.com/Artiom003/Artiom003/images/cpp.svg' width='30'/> <img src = 'https://github.com/Artiom003/Artiom003/images/python2.png' height='30'/>
+<img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/cpp.svg' width='40'/> <img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/python.svg' height='40'/> <img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/swi-prolog.svg' height='45'/>
+
+## Development environments
+<img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/vs.svg' width='40'/> <img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/vs-code.svg' height='40'/> <img src = 'https://github.com/Artiom003/Artiom003/blob/main/images/swi-pycharm.svg' height='45'/>
